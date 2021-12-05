@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Barlow', sans-serif;
+  background-image: url('../CSS/Media/Background_Art.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+main {
+  max-width: 1440px;
+  max-height: 660px;
+  overflow: hidden;
+}
+
+
+
+
+
+
+
